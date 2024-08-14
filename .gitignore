@@ -1,0 +1,12 @@
+# Unity
+Library/
+Temp/
+Builds/
+Logs/
+.vs/
+*.csproj
+*.sln
+*.user
+*.pidb
+*.suo
+*.userprefs
